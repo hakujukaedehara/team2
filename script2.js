@@ -7,7 +7,7 @@ var teamMembers = [
     "Welcome Ms Nguyen Thi Tham to join CASA TEAM",
     "Welcome Ms Tran Ngoc Tuyet Anh to join FEE TEAM",
     "Welcome Mr Hoang Van Thieu to join CASA TEAM",
-    "Welcome Mr Nguyen Xuan Dung to join NON-NPL TEAM",
+    "Welcome Mr Nguyen Xuan Dung GDK to join NON-NPL TEAM",
     "Welcome Ms Nguyen Ngoc Ha to join FEE TEAM",
     "Welcome Mr Nguyen Giang Nam to join FEE TEAM",
     "Welcome Ms Nguyen Thi Hong Nhung to join CASA TEAM",
